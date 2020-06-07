@@ -1,7 +1,7 @@
 # Capacitacao_RN
 
 ## Descrição
-Este projeto é um aplicativo que tenta simular bem basicamente o Instagram e foi feito no intuito de ensinar os membros do núcleo de computação a utilizarem e contruírem um projeto em React Native. Nessa capacitação foram ensinados os conceitos básicos de RN, navegação entre telas, consumo de API Rest, estruturação de pastas e boas práticas.
+Este projeto é um aplicativo que tenta simular bem basicamente o Instagram e foi feito por *Davi Machado Costa* no intuito de ensinar os membros do núcleo de computação a utilizarem e contruírem um projeto em React Native. Nessa capacitação foram ensinados os conceitos básicos de RN, navegação entre telas, consumo de API Rest, estruturação de pastas e boas práticas.
 
 ## Links acessados
  - https://docs.expo.io/ -> Documentação do Expo
@@ -10,5 +10,4 @@ Este projeto é um aplicativo que tenta simular bem basicamente o Instagram e fo
  - https://www.youtube.com/watch?v=nQVCkqvU1uE -> Vídeo explicando como utilizar o React Native Navigation 5.x
  - https://www.youtube.com/watch?v=X2RKRKdqqwM -> Vídeo mostrando estruturação das pastas
  - https://materialdesignicons.com/ -> Lista de ícones do Material Community Icons
-
-
+ - https://medium.com/@dellean.santos/otimizando-o-desempenho-de-aplica%C3%A7%C3%B5es-react-react-native-7b2de33e261 -> Boas práticas em RN
